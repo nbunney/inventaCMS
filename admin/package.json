@@ -1,0 +1,23 @@
+{
+  "name": "inventacmsadmin",
+  "version": "1.0.0",
+  "description": "This is the React.js admin panel for InventaCMS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nbunney/inventaCMS.git"
+  },
+  "author": "Nathan Bunney",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nbunney/inventaCMS/issues"
+  },
+  "homepage": "https://github.com/nbunney/inventaCMS#readme",
+  "devDependencies": {
+    "babel-loader": "^5.3.3",
+    "webpack": "^1.12.11"
+  }
+}

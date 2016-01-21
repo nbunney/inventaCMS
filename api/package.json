@@ -1,0 +1,14 @@
+{
+  "name": "InventaCMSAPI",
+  "version": "1.0.0",
+  "private": "true",
+  "dependencies": {
+    "express": "*",
+    "jade": "*",
+    "stylus": "*",
+    "nib": "*"
+  },
+  "devDependencies": {
+    "node-sass": "^3.4.2"
+  }
+}
